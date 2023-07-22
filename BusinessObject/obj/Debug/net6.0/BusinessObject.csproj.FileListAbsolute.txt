@@ -1,0 +1,30 @@
+E:\Desktop\ProjectPRN231\BusinessObject\bin\Debug\net6.0\appsettings.json
+E:\Desktop\ProjectPRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\Desktop\ProjectPRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\Desktop\ProjectPRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\Desktop\ProjectPRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+E:\Desktop\ProjectPRN231\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\bin\Debug\net6.0\appsettings.json
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+F:\New folder\FULearning\Summer2023\PRN231\New folder\ProjectPRN231\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

@@ -1,0 +1,19 @@
+﻿@{
+    var routeUrl = ViewContext.RouteData.Values["controller"].ToString();
+    var pages = new List<string> { "Manager" };
+
+    if (pages.Any(routeUrl.Contains))
+    {
+        Layout = Context.User.Identity.IsAuthenticated ? "_Layout" : "_LayoutHome";
+
+        if (Context.User.Identity.IsAuthenticated && !User.IsInRole("1"))
+        {
+            Layout = "~/Views/Shared/_LayoutHome.cshtml";
+        }
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_LayoutHome.cshtml";
+    }
+
+}
