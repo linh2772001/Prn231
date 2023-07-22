@@ -14,3 +14,19 @@ C:\Users\ASUS\Videos\ProjectPRN231-main\DataAccess\obj\Debug\net6.0\DataAccess.d
 C:\Users\ASUS\Videos\ProjectPRN231-main\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 C:\Users\ASUS\Videos\ProjectPRN231-main\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 C:\Users\ASUS\Videos\ProjectPRN231-main\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\bin\Debug\net6.0\appsettings.json
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\bin\Debug\net6.0\DataAccess.dll
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

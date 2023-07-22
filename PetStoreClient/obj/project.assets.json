@@ -10914,11 +10914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\PetStoreClient.csproj",
+      "projectUniqueName": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\PetStoreClient.csproj",
       "projectName": "PetStoreClient",
-      "projectPath": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\PetStoreClient.csproj",
+      "projectPath": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\PetStoreClient.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\obj\\",
+      "outputPath": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10939,14 +10939,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\BusinessObject\\BusinessObject.csproj"
+            "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\BusinessObject\\BusinessObject.csproj"
             },
-            "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\DataAccess\\DataAccess.csproj"
+            "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreAPI\\PetStoreAPI.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreAPI\\PetStoreAPI.csproj"
+            "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreAPI\\PetStoreAPI.csproj": {
+              "projectPath": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreAPI\\PetStoreAPI.csproj"
             }
           }
         }

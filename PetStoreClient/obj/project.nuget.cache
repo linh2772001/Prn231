@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7sBXiY710ukqam9SpG1GyEHLQUTQd3/rm+P0AGrRNPWUFUoZG/l/nQGdCYOqwu4MSZ5d7IcBCBLM/7PNBX+sFQ==",
+  "dgSpecHash": "dEbUF1+4WZzrEY6UJ+F9/54lea8DI7GuxCkoL11ghD+LDRfWFe75SBP0QynGUY+Tv7FSB58cgti7+0JfE6dHlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\PetStoreClient.csproj",
+  "projectFilePath": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\PetStoreClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

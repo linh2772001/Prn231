@@ -59,6 +59,15 @@ namespace PetStoreAPI
                 .ForMember(dest => dest.CreateDate, opt => opt.MapFrom(src => src.CreateDate))
                 .ForMember(dest => dest.UpdateDate, opt => opt.MapFrom(src => src.UpdateDate))
                 .ReverseMap();
+            CreateMap<BlogDTO, BlogDetail>()
+               .ForMember(dest => dest.BlogId, opt => opt.MapFrom(src => src.BlogId))
+               .ForMember(dest => dest.Content, opt => opt.MapFrom(src => src.Content))
+               .ForMember(dest => dest.Heading, opt => opt.MapFrom(src => src.Heading))
+               .ForMember(dest => dest.PageTitle, opt => opt.MapFrom(src => src.PageTitle))
+               .ForMember(dest => dest.ShortDescription, opt => opt.MapFrom(src => src.ShortDescription))
+               .ForMember(dest => dest.FeaturedImageUrl, opt => opt.MapFrom(src => src.FeaturedImageUrl))
+               .ForMember(dest => dest.PublishedDate, opt => opt.MapFrom(src => src.PublishedDate))
+               .ReverseMap();
         }
     }
 }

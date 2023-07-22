@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "1/Q8H4wt4bFxxVAzZuRrx6KlExi3W3+kryROBuS7fqM=",
+  "Hash": "aZMq54IGyvyKG549HSfoLPM8HR1zi+qU4aQyXpY33Xo=",
   "Source": "PetStoreClient",
   "BasePath": "_content/PetStoreClient",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreAPI\\PetStoreAPI.csproj",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreAPI\\PetStoreAPI.csproj",
       "Version": 2,
       "Source": "PetStoreAPI",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "PetStoreClient\\wwwroot",
       "Source": "PetStoreClient",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PetStoreClient.styles.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PetStoreClient.styles.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "PetStoreClient.styles.css",
       "AssetKind": "All",
@@ -43,13 +43,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PetStoreClient.styles.css"
+      "OriginalItemSpec": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PetStoreClient.styles.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PetStoreClient.bundle.scp.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PetStoreClient.bundle.scp.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "PetStoreClient.bundle.scp.css",
       "AssetKind": "All",
@@ -60,13 +60,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PetStoreClient.bundle.scp.css"
+      "OriginalItemSpec": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PetStoreClient.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\css\\theme.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\css\\theme.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/css/theme.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\css\\theme.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\css\\theme.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/css/theme.css.map",
       "AssetKind": "All",
@@ -97,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\theme.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\font-awesome.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\font-awesome.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/font-awesome.css",
       "AssetKind": "All",
@@ -114,10 +114,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.eot",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.svg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -148,10 +148,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -165,10 +165,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -182,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -199,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.eot",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -216,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.svg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -233,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -250,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -267,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -284,10 +284,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.eot",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -301,10 +301,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.svg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -318,10 +318,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -335,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -352,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/font-awesome/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -369,10 +369,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/sb-bistro/sb-bistro.css",
       "AssetKind": "All",
@@ -386,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.eot",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.eot",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/sb-bistro/sb-bistro.eot",
       "AssetKind": "All",
@@ -403,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.eot"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.svg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.svg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/sb-bistro/sb-bistro.svg",
       "AssetKind": "All",
@@ -420,10 +420,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.svg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.ttf",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.ttf",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/sb-bistro/sb-bistro.ttf",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.ttf"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.woff",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.woff",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/fonts/sb-bistro/sb-bistro.woff",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\sb-bistro\\sb-bistro.woff"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\bg-header.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\bg-header.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/bg-header.jpg",
       "AssetKind": "All",
@@ -471,10 +471,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bg-header.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\bn_login.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\bn_login.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/bn_login.jpg",
       "AssetKind": "All",
@@ -488,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\bn_login.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\dichvuchamsoc.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\dichvuchamsoc.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/dichvuchamsoc.jpg",
       "AssetKind": "All",
@@ -505,10 +505,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dichvuchamsoc.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\dochoithucung.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\dochoithucung.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/dochoithucung.jpg",
       "AssetKind": "All",
@@ -522,10 +522,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dochoithucung.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\fish.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\fish.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/fish.jpg",
       "AssetKind": "All",
@@ -539,10 +539,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\fish.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\frozen.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\frozen.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/frozen.jpg",
       "AssetKind": "All",
@@ -556,10 +556,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\frozen.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\fruits.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\fruits.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/fruits.jpg",
       "AssetKind": "All",
@@ -573,10 +573,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\fruits.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\khac.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\khac.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/khac.jpg",
       "AssetKind": "All",
@@ -590,10 +590,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\khac.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\logo\\avatar.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\logo\\avatar.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/logo/avatar.jpg",
       "AssetKind": "All",
@@ -607,10 +607,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo\\avatar.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\logo\\avatar-alt.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\logo\\avatar-alt.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/logo/avatar-alt.jpg",
       "AssetKind": "All",
@@ -624,10 +624,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo\\avatar-alt.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\logo\\logo.png",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\logo\\logo.png",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/logo/logo.png",
       "AssetKind": "All",
@@ -641,10 +641,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\logo\\logo.webp",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\logo\\logo.webp",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/logo/logo.webp",
       "AssetKind": "All",
@@ -658,10 +658,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo\\logo.webp"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\logo\\logo-white.png",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\logo\\logo-white.png",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/logo/logo-white.png",
       "AssetKind": "All",
@@ -675,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo\\logo-white.png"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\meats.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\meats.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/meats.jpg",
       "AssetKind": "All",
@@ -692,10 +692,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\meats.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\mockup.png",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\mockup.png",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/mockup.png",
       "AssetKind": "All",
@@ -709,10 +709,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\mockup.png"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\package.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\package.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/package.jpg",
       "AssetKind": "All",
@@ -726,10 +726,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\package.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\pet_banner.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\pet_banner.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/pet_banner.jpg",
       "AssetKind": "All",
@@ -743,10 +743,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\pet_banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\petshop_app.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\petshop_app.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/petshop_app.jpg",
       "AssetKind": "All",
@@ -760,10 +760,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\petshop_app.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\playstore.png",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\playstore.png",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/playstore.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\playstore.png"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\sponsor.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\sponsor.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/sponsor.jpg",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\sponsor.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\thucancho.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\thucancho.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/thucancho.jpg",
       "AssetKind": "All",
@@ -811,10 +811,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\thucancho.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\thucanmeo.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\thucanmeo.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/thucanmeo.jpg",
       "AssetKind": "All",
@@ -828,10 +828,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\thucanmeo.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\thukien.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\thukien.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/thukien.jpg",
       "AssetKind": "All",
@@ -845,10 +845,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\thukien.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\img\\vegetables.jpg",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\img\\vegetables.jpg",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/img/vegetables.jpg",
       "AssetKind": "All",
@@ -862,10 +862,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\vegetables.jpg"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\js\\jquery.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\js\\jquery.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/js/jquery.js",
       "AssetKind": "All",
@@ -879,10 +879,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\js\\jquery-migrate.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\js\\jquery-migrate.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/js/jquery-migrate.js",
       "AssetKind": "All",
@@ -896,10 +896,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-migrate.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\js\\theme.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\js\\theme.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/js/theme.js",
       "AssetKind": "All",
@@ -913,10 +913,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\theme.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\media\\explore.mp4",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\media\\explore.mp4",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/media/explore.mp4",
       "AssetKind": "All",
@@ -930,10 +930,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\media\\explore.mp4"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\media\\explore.webm",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\media\\explore.webm",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/media/explore.webm",
       "AssetKind": "All",
@@ -947,10 +947,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\media\\explore.webm"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\bootstrap.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\bootstrap.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/bootstrap/bootstrap.css",
       "AssetKind": "All",
@@ -964,10 +964,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\bootstrap\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\bootstrap.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\bootstrap.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/bootstrap/bootstrap.css.map",
       "AssetKind": "All",
@@ -981,10 +981,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\bootstrap\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\bootstrap.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\bootstrap.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/bootstrap/bootstrap.js",
       "AssetKind": "All",
@@ -998,10 +998,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\bootstrap\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\bootstrap.js.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\bootstrap.js.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/bootstrap/bootstrap.js.map",
       "AssetKind": "All",
@@ -1015,10 +1015,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\bootstrap\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\libraries\\popper.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap\\libraries\\popper.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/bootstrap/libraries/popper.js",
       "AssetKind": "All",
@@ -1032,10 +1032,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\bootstrap\\libraries\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap-touchspin\\bootstrap-touchspin.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap-touchspin\\bootstrap-touchspin.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/bootstrap-touchspin/bootstrap-touchspin.css",
       "AssetKind": "All",
@@ -1049,10 +1049,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\bootstrap-touchspin\\bootstrap-touchspin.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap-touchspin\\bootstrap-touchspin.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\bootstrap-touchspin\\bootstrap-touchspin.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/bootstrap-touchspin/bootstrap-touchspin.js",
       "AssetKind": "All",
@@ -1066,10 +1066,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\bootstrap-touchspin\\bootstrap-touchspin.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\cloudzoom\\ajax-loader.gif",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\cloudzoom\\ajax-loader.gif",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/cloudzoom/ajax-loader.gif",
       "AssetKind": "All",
@@ -1083,10 +1083,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\cloudzoom\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\cloudzoom\\cloudzoom.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\cloudzoom\\cloudzoom.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/cloudzoom/cloudzoom.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\cloudzoom\\cloudzoom.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\cloudzoom\\cloudzoom.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\cloudzoom\\cloudzoom.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/cloudzoom/cloudzoom.js",
       "AssetKind": "All",
@@ -1117,10 +1117,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\cloudzoom\\cloudzoom.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\o2system-ui.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\o2system-ui.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/o2system-ui.css",
       "AssetKind": "All",
@@ -1134,10 +1134,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\o2system-ui.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\o2system-ui.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\o2system-ui.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/o2system-ui.css.map",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\o2system-ui.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\o2system-ui.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\o2system-ui.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/o2system-ui.js",
       "AssetKind": "All",
@@ -1168,10 +1168,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\o2system-ui.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui.scss",
       "AssetKind": "All",
@@ -1185,10 +1185,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_accordion.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_accordion.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_accordion.scss",
       "AssetKind": "All",
@@ -1202,10 +1202,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_badge.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_badge.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_badge.scss",
       "AssetKind": "All",
@@ -1219,10 +1219,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_breadcrumbs.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_breadcrumbs.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_breadcrumbs.scss",
       "AssetKind": "All",
@@ -1236,10 +1236,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_breadcrumbs.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_button.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_button.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_button.scss",
       "AssetKind": "All",
@@ -1253,10 +1253,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_button.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_card.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_card.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_card.scss",
       "AssetKind": "All",
@@ -1270,10 +1270,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_color.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_color.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_color.scss",
       "AssetKind": "All",
@@ -1287,10 +1287,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_color.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_global.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_global.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_global.scss",
       "AssetKind": "All",
@@ -1304,10 +1304,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_global.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_jumbotron.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_jumbotron.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_jumbotron.scss",
       "AssetKind": "All",
@@ -1321,10 +1321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_jumbotron.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_nav.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_nav.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_nav.scss",
       "AssetKind": "All",
@@ -1338,10 +1338,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_offline.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_offline.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_offline.scss",
       "AssetKind": "All",
@@ -1355,10 +1355,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_offline.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_pace.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_pace.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_pace.scss",
       "AssetKind": "All",
@@ -1372,10 +1372,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_pace.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_pricing.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_pricing.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_pricing.scss",
       "AssetKind": "All",
@@ -1389,10 +1389,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_pricing.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_tab.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_tab.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_tab.scss",
       "AssetKind": "All",
@@ -1406,10 +1406,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_tab.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_timeline.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_timeline.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_timeline.scss",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_timeline.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_utilities.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_utilities.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/o2system-ui/scss/o2system-ui/_utilities.scss",
       "AssetKind": "All",
@@ -1440,10 +1440,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\o2system-ui\\scss\\o2system-ui\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\owl-carousel\\img\\ajax-loader.gif",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\owl-carousel\\img\\ajax-loader.gif",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/owl-carousel/img/ajax-loader.gif",
       "AssetKind": "All",
@@ -1457,10 +1457,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\owl-carousel\\img\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\owl-carousel\\img\\owl-video-play.png",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\owl-carousel\\img\\owl-video-play.png",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/owl-carousel/img/owl-video-play.png",
       "AssetKind": "All",
@@ -1474,10 +1474,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\owl-carousel\\img\\owl-video-play.png"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\owl-carousel\\owl-carousel.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\owl-carousel\\owl-carousel.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/owl-carousel/owl-carousel.css",
       "AssetKind": "All",
@@ -1491,10 +1491,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\owl-carousel\\owl-carousel.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\owl-carousel\\owl-carousel.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\owl-carousel\\owl-carousel.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/owl-carousel/owl-carousel.js",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\owl-carousel\\owl-carousel.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\thumbelina\\thumbelina.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\thumbelina\\thumbelina.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/thumbelina/thumbelina.css",
       "AssetKind": "All",
@@ -1525,10 +1525,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\thumbelina\\thumbelina.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\packages\\thumbelina\\thumbelina.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\packages\\thumbelina\\thumbelina.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/packages/thumbelina/thumbelina.js",
       "AssetKind": "All",
@@ -1542,10 +1542,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\packages\\thumbelina\\thumbelina.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_color.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_color.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/sass/_partials/_color.scss",
       "AssetKind": "All",
@@ -1559,10 +1559,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_partials\\_color.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_footer.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_footer.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/sass/_partials/_footer.scss",
       "AssetKind": "All",
@@ -1576,10 +1576,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_partials\\_footer.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_global.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_global.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/sass/_partials/_global.scss",
       "AssetKind": "All",
@@ -1593,10 +1593,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_partials\\_global.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_header.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_header.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/sass/_partials/_header.scss",
       "AssetKind": "All",
@@ -1610,10 +1610,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_partials\\_header.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_landing.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_landing.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/sass/_partials/_landing.scss",
       "AssetKind": "All",
@@ -1627,10 +1627,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_partials\\_landing.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_login.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_login.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/sass/_partials/_login.scss",
       "AssetKind": "All",
@@ -1644,10 +1644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_partials\\_login.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_shop.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\sass\\_partials\\_shop.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/sass/_partials/_shop.scss",
       "AssetKind": "All",
@@ -1661,10 +1661,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\_partials\\_shop.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\assets\\sass\\theme.scss",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\assets\\sass\\theme.scss",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "assets/sass/theme.scss",
       "AssetKind": "All",
@@ -1678,10 +1678,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\sass\\theme.scss"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\css\\site.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\css\\site.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1695,10 +1695,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\favicon.ico",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\favicon.ico",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1712,10 +1712,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\js\\site.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\js\\site.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1729,10 +1729,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1763,10 +1763,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1780,10 +1780,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1797,10 +1797,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1814,10 +1814,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1831,10 +1831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1848,10 +1848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1865,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1882,10 +1882,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1899,10 +1899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1916,10 +1916,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1933,10 +1933,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1950,10 +1950,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1967,10 +1967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1984,10 +1984,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2001,10 +2001,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2018,10 +2018,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2035,10 +2035,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2052,10 +2052,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2086,10 +2086,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2103,10 +2103,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2120,10 +2120,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2137,10 +2137,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2154,10 +2154,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2171,10 +2171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2188,10 +2188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2205,10 +2205,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2222,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2239,10 +2239,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2256,10 +2256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2273,10 +2273,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2290,10 +2290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2307,10 +2307,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2324,10 +2324,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2341,10 +2341,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2358,10 +2358,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2375,10 +2375,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2409,10 +2409,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2426,10 +2426,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2443,10 +2443,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2460,10 +2460,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2477,10 +2477,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2494,10 +2494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2511,10 +2511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2528,10 +2528,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2545,10 +2545,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2562,10 +2562,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2579,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2596,10 +2596,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2613,10 +2613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2630,10 +2630,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2647,10 +2647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2664,10 +2664,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2681,10 +2681,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PetStoreClient",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\PetStoreClient\\wwwroot\\",
+      "ContentRoot": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetStoreClient\\wwwroot\\",
       "BasePath": "_content/PetStoreClient",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
