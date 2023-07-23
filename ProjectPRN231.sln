@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessObject", "BusinessO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetStoreAPI", "PetStoreAPI\PetStoreAPI.csproj", "{C3DD74A1-8451-40B0-A822-A7301366F531}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShop_Project_SWP391", "swp391_project\PetShop_Project_SWP391\PetShop_Project_SWP391.csproj", "{926FEA0B-DAAA-4178-BC0A-FE3098839735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShop_Project_SWP391", "PetShop_Project_SWP391\PetShop_Project_SWP391.csproj", "{18BFB5CC-3D62-4503-92D4-39EA6596D1C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{C3DD74A1-8451-40B0-A822-A7301366F531}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3DD74A1-8451-40B0-A822-A7301366F531}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3DD74A1-8451-40B0-A822-A7301366F531}.Release|Any CPU.Build.0 = Release|Any CPU
-		{926FEA0B-DAAA-4178-BC0A-FE3098839735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{926FEA0B-DAAA-4178-BC0A-FE3098839735}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{926FEA0B-DAAA-4178-BC0A-FE3098839735}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{926FEA0B-DAAA-4178-BC0A-FE3098839735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18BFB5CC-3D62-4503-92D4-39EA6596D1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BFB5CC-3D62-4503-92D4-39EA6596D1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BFB5CC-3D62-4503-92D4-39EA6596D1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BFB5CC-3D62-4503-92D4-39EA6596D1C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

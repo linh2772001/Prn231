@@ -1,0 +1,103 @@
+﻿@page
+@model PetShop_Project_SWP391.Pages.Manager.Products.IndexModel
+@section manager_product_list{
+@{
+    ViewData["Title"] = "Index";
+}
+<link href="~/css/managerproductslist.css" rel="stylesheet" />
+<h1>Danh Sách Sản Phẩm</h1>
+<div class="manager-product-list">
+<div id="product-title-2" style="width: 80%;">
+    <form method="get">
+        <input style="width:90%" asp-for="@ViewData["txtSearch"]" type="text" name="txtSearch" placeholder="Nhập sản phẩm cần tìm" />
+        <input type="submit" value="Search" />
+    </form>
+</div>
+<p>
+    <a asp-page="./Create">Thêm Sản Phẩm Mới</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên Sản Phẩm
+            </th>
+            <th>
+                Giá cả
+            </th>
+            <th>
+                Phân Loại
+            </th>
+            <th>Trạng Thái</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @{
+        foreach(var item in Model.Products)
+        {
+            <tr>
+                <td>
+                    @item.ProductName
+                </td>
+                <td>
+                    @item.UnitPrice
+                </td>
+                <td>
+                   @item.Category.CategoryName
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @if(item.Status == true)
+                    {
+                        <button>
+                            <a asp-page="/Manager/Products/index" asp-page-handler="active" asp-route-id="@item.ProductId">Thay Đổi</a>
+                        </button>
+                    }
+                    else
+                    {
+                        <button>
+                            <a asp-page="/Manager/Products/index" asp-page-handler="active" asp-route-id="@item.ProductId">Thay Đổi</a>
+                        </button>
+                    }
+                </td>
+                <td>
+                    <a asp-page="./Update" asp-route-id="@item.ProductId">Cập Nhật</a> |
+                    <a asp-page="./Detail" asp-route-id="@item.ProductId">Chi Tiết</a>
+                </td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>
+        <div id="paging">
+            <div class="pagination">
+                <a href="~/Manager/Products?PageNum=1&txtSearch=@ViewData["txtSearch"]">First</a>
+                @*   PageNum = curpage*@
+                @if ((int)(ViewData["CurPage"]) > 1)
+                {
+                    <a href="~/Manager/Products?PageNum=@((int)ViewData["CurPage"]-1)&txtSearch=@ViewData["txtSearch"]">&laquo;</a>
+                }
+
+                <span>    </span>
+                @for (var i = 1; i <= (int)(@ViewData["TotalPage"]); i++)
+                {
+                    if ((i - (int)@ViewData["CurPage"]) <= 1 && (i - (int)@ViewData["CurPage"]) >= -1)
+                    {
+                        <a href="~/Manager/Products?PageNum=@i&txtSearch=@ViewData["txtSearch"]" class=@((int)(ViewData["CurPage"])==@i ? "active" : "")>@i</a>
+                    }
+                }
+
+                <span>    </span>
+                @if ((int)ViewData["CurPage"] < (int)ViewData["TotalPage"])
+                {
+                    <a href="~/Manager/Products?PageNum=@((int)ViewData["CurPage"]+1)&txtSearch=@ViewData["txtSearch"]">&raquo;</a>
+                }
+                <a href="~/Manager/Products?PageNum=@ViewData["TotalPage"]&txtSearch=@ViewData["txtSearch"]">Last</a>
+            </div>
+        </div>
+    </div>
+}

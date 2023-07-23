@@ -1,0 +1,107 @@
+﻿@page
+@model PetShop_Project_SWP391.Pages.Product.ProductDetailModel
+@{
+        ViewData["Title"] = "ProductDetail";
+}
+@*<link href="~/css/detailproduct.css" rel="stylesheet" />
+<div class="banner">
+    <div class="jumbotron jumbotron-bg text-center rounded-0" style="background-image: url('https://kienthucbonphuong.com/images/202006/pet-la-gi/pet-la-gi.jpg');">
+    </div>
+</div>
+<div id="content-detail">
+    <div id="product">
+        <div id="product-name">
+        <h2>@Model.Product.ProductName</h2>
+            <div id="product-detail">
+                <div id="product-detail-left">
+                  <div id="product-img" class="imga">
+                    <img id="mainImage" src="~/img/pate-lechat-exellence-mousse-rich.jpg" />
+                  </div>
+                  <div id="product-img-items">
+                    <div><a href="#"><img src="~/img/pate-lechat-exellence-mousse-rich-pink.jpg" onclick="changeMainImage(this)" /></a></div>
+                    <div><a href="#"><img src="~/img/pate-lechat-exellence-mousse-rich-blue.jpg" onclick="changeMainImage(this)" /></a></div>
+                    <div><a href="#"><img src="~/img/pate-lechat-exellence-mousse-rich-yellow.jpg" onclick="changeMainImage(this)" /></a></div>
+                    <div><a href="#"><img src="~/img/pate-lechat-exellence-mousse-rich-red.jpg" onclick="changeMainImage(this)" /></a></div>
+                  </div>
+                  <script src="~/js/changeimage.js"></script>
+                </div>
+                <div id="product-detail-right" style="margin-left : 3%">
+                    <div id="product-detail-right-content">
+                        <div id="product-price">@Model.Product.UnitPrice VND</div>
+                        <div id="product-status">In stock</div>
+                        <div id="product-detail-buttons">
+                            <div id="product-detail-button">
+                                <a asp-page="/Product/Cart" asp-page-handler="buynow" asp-route-id="@Model.Product.ProductId"><input type="button" value="BUY NOW"></a>
+                                <a asp-page="/Product/ProductDetail" asp-page-handler="addtocart" asp-route-id="@Model.Product.ProductId"><input type="button" value="ADD TO CART" style="background-color: #fff; color:red;border: 1px solid gray;"></a>
+                            </div>
+                        </div>
+                        <span style="color:green">@ViewData["successmess"]</span>
+                    </div>
+                </div>
+             </div>
+        </div>
+    </div>
+    <div id="info-detail">
+        <div id="info-detail-title">
+            <h2>Information deltail</h2>
+            <div style="margin:10px auto;">
+                @Html.DisplayFor(model => model.Product.Description)
+            </div>
+        </div>
+    </div>
+</div>
+*@
+<head>
+    <div class="jumbotron jumbotron-bg text-center rounded-0" style="background-image: url('https://i0.wp.com/thatnhucuocsong.com.vn/wp-content/uploads/2022/01/Hinh-nen-Cho-1.jpg?ssl\u003d1');">
+    </div>
+</head>
+<body>
+    <link href="~/css/detailproduct.css" rel="stylesheet" />
+    <div id="content-detail">
+        <div id="product">
+            <div id="product-name">
+                <h2>@Model.Product.ProductName</h2>
+                <div class="row product-detail">
+                    <div class="col-sm-6 product-detail-left">
+                        <div>
+                            <div id="product-img" class="imga">
+                                <img id="mainImage" src="~/img/pate-lechat-exellence-mousse-rich-pink.jpg" />
+                            </div>
+                            <div id="product-img-items">
+                                <div><a href="#"><img src="~/img/pate-lechat-exellence-mousse-rich-pink.jpg" onclick="changeMainImage(this)" /></a></div>
+                                <div><a href="#"><img src="~/img/pate-lechat-exellence-mousse-rich-blue.jpg" onclick="changeMainImage(this)" /></a></div>
+                                <div><a href="#"><img src="~/img/pate-lechat-exellence-mousse-rich-yellow.jpg" onclick="changeMainImage(this)" /></a></div>
+                                <div><a href="#"><img src="~/img/pate-lechat-exellence-mousse-rich-red.jpg" onclick="changeMainImage(this)" /></a></div>
+                            </div>
+                            <script src="~/js/changeimage.js"></script>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 product-detail-right">
+                        <div>
+                            <div class="info-detail">
+                                <div id="info-detail-title">
+                                    <h2>Thông Tin Sản Phẩm</h2>
+                                    <div style="margin:10px auto;">
+                                        @Html.DisplayFor(model => model.Product.Description)
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="product-detail-right-content">
+                                <div id="product-price">@Model.Product.UnitPrice VND</div>
+                                <div id="product-status">In stock</div>
+                                <div id="product-detail-buttons">
+                                    <div id="product-detail-button">
+                                        <a asp-page="/Product/Cart" asp-page-handler="buynow" asp-route-id="@Model.Product.ProductId"><input type="button" value="BUY NOW"></a>
+                                <a asp-page="/Product/ProductDetail" asp-page-handler="addtocart" asp-route-id="@Model.Product.ProductId"><input type="button" value="ADD TO CART" style="background-color: #fff; color:red;border: 1px solid gray;"></a>
+                                    </div>
+                                </div>
+                                <span style="color:green">@ViewData["successmess"]</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
