@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetShop_Project_SWP391\\PetShop_Project_SWP391.csproj": {}
+    "D:\\FULearning\\Summer2023\\Project_PRN231\\Prn231\\PetShop_Project_SWP391\\PetShop_Project_SWP391.csproj": {}
   },
   "projects": {
     "C:\\Users\\ASUS\\Videos\\ProjectPRN231-main\\BusinessObject\\BusinessObject.csproj": {
@@ -218,20 +218,20 @@
         }
       }
     },
-    "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetShop_Project_SWP391\\PetShop_Project_SWP391.csproj": {
+    "D:\\FULearning\\Summer2023\\Project_PRN231\\Prn231\\PetShop_Project_SWP391\\PetShop_Project_SWP391.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetShop_Project_SWP391\\PetShop_Project_SWP391.csproj",
+        "projectUniqueName": "D:\\FULearning\\Summer2023\\Project_PRN231\\Prn231\\PetShop_Project_SWP391\\PetShop_Project_SWP391.csproj",
         "projectName": "PetShop_Project_SWP391",
-        "projectPath": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetShop_Project_SWP391\\PetShop_Project_SWP391.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "F:\\New folder\\FULearning\\Summer2023\\PRN231\\ProjectPRN231\\Prn231\\PetShop_Project_SWP391\\obj\\",
+        "projectPath": "D:\\FULearning\\Summer2023\\Project_PRN231\\Prn231\\PetShop_Project_SWP391\\PetShop_Project_SWP391.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "D:\\FULearning\\Summer2023\\Project_PRN231\\Prn231\\PetShop_Project_SWP391\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -303,7 +303,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -315,7 +316,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

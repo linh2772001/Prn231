@@ -5,212 +5,213 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PetShop_Project_SWP391
 build_property.RootNamespace = PetShop_Project_SWP391
-build_property.ProjectDir = F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\PetShop_Project_SWP391\
+build_property.ProjectDir = D:\FULearning\Summer2023\Project_PRN231\Prn231\PetShop_Project_SWP391\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\New folder\FULearning\Summer2023\PRN231\ProjectPRN231\Prn231\PetShop_Project_SWP391
+build_property.MSBuildProjectDirectory = D:\FULearning\Summer2023\Project_PRN231\Prn231\PetShop_Project_SWP391
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Account/ForgotPassword.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Account/Logout.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Account/SignUp.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Account/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Account/SingnIn.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Account/SingnIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaW5nbkluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/Blog/BlogDetail.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/Blog/BlogDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEJsb2dcQmxvZ0RldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/Blog/BlogList.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/Blog/BlogList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEJsb2dcQmxvZ0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/Blog/List.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/Blog/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEJsb2dcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/ChangePassword/Index.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/ChangePassword/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXENoYW5nZVBhc3N3b3JkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/CustomerInfomation.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/CustomerInfomation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEN1c3RvbWVySW5mb21hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/CustomersOrderDetails.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/CustomersOrderDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEN1c3RvbWVyc09yZGVyRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/EditProfile.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/EditProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEVkaXRQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/Profile.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Customers/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXFByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Error.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/GalleryPic/Gallery.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/GalleryPic/Gallery.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FsbGVyeVBpY1xHYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Home/About.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Home/Blogs/BlogDetail.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Home/Blogs/BlogDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxCbG9nc1xCbG9nRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Home/Blogs/BlogList.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Home/Blogs/BlogList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxCbG9nc1xCbG9nTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Home/Index.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Index.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/AddBlog.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/AddBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxCbG9nXEFkZEJsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/Delete.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxCbG9nXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/Detail.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxCbG9nXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/Edit.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxCbG9nXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/List.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Blog/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxCbG9nXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/CustomerList/Index.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/CustomerList/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxDdXN0b21lckxpc3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Employee/CreateAccount.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Employee/CreateAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxFbXBsb3llZVxDcmVhdGVBY2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Index.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Products/Create.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxQcm9kdWN0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Products/Detail.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Products/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxQcm9kdWN0c1xEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Products/Index.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxQcm9kdWN0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Products/Update.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Products/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxQcm9kdWN0c1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Profile/EditProflie.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Profile/EditProflie.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxQcm9maWxlXEVkaXRQcm9mbGllLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Profile/Index.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/Profile/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxQcm9maWxlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/TableOrderList/Detail.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/TableOrderList/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxUYWJsZU9yZGVyTGlzdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/TableOrderList/Edit.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/TableOrderList/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxUYWJsZU9yZGVyTGlzdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/TableOrderList/OrderList.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Manager/TableOrderList/OrderList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlclxUYWJsZU9yZGVyTGlzdFxPcmRlckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/NewFolder/List.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/NewFolder/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3Rm9sZGVyXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/NewFolder/_CategoryProductsPartial.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/NewFolder/_CategoryProductsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3Rm9sZGVyXF9DYXRlZ29yeVByb2R1Y3RzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Privacy.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Product/Cart.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Product/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Product/ProductDetail.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Product/ProductDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/HomePage/Home.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/HomePage/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEhvbWVQYWdlXEhvbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/HomePage/_LayoutHome.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/HomePage/_LayoutHome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEhvbWVQYWdlXF9MYXlvdXRIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_LayoutManager.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_LayoutManager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRNYW5hZ2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_LayoutSignIn.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_LayoutSignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRTaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_OrderTable.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_OrderTable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9PcmRlclRhYmxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/_ViewImports.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/_ViewStart.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/New folder/FULearning/Summer2023/PRN231/ProjectPRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_Layout.cshtml]
+[D:/FULearning/Summer2023/Project_PRN231/Prn231/PetShop_Project_SWP391/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w8bb75wtv4
