@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PetShop_Project_SWP391.props" />
+</Project>
