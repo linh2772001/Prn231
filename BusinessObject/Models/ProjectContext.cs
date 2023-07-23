@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.Extensions.Configuration;
 
 namespace BusinessObject.Models
 {
@@ -23,8 +22,10 @@ namespace BusinessObject.Models
         public virtual DbSet<Customer> Customers { get; set; } = null!;
         public virtual DbSet<Department> Departments { get; set; } = null!;
         public virtual DbSet<Employee> Employees { get; set; } = null!;
+        public virtual DbSet<Gallery> Galleries { get; set; } = null!;
         public virtual DbSet<Order> Orders { get; set; } = null!;
         public virtual DbSet<OrderDetail> OrderDetails { get; set; } = null!;
+        public virtual DbSet<PictureGallery> PictureGalleries { get; set; } = null!;
         public virtual DbSet<PictureProduct1> PictureProducts1 { get; set; } = null!;
         public virtual DbSet<Product> Products { get; set; } = null!;
         public virtual DbSet<ReasonCancel> ReasonCancels { get; set; } = null!;
@@ -33,10 +34,10 @@ namespace BusinessObject.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var conf = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(conf.GetConnectionString("DbConnection"));
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+                optionsBuilder.UseSqlServer("server=localhost\\SQLEXPRESS;database=Project;Integrated security=true");
             }
         }
 
@@ -174,6 +175,15 @@ namespace BusinessObject.Models
                     .HasConstraintName("FK_Employees_Departments");
             });
 
+            modelBuilder.Entity<Gallery>(entity =>
+            {
+                entity.ToTable("Gallery");
+
+                entity.Property(e => e.Id).ValueGeneratedNever();
+
+                entity.Property(e => e.Title).HasMaxLength(50);
+            });
+
             modelBuilder.Entity<Order>(entity =>
             {
                 entity.Property(e => e.OrderId).HasColumnName("OrderID");
@@ -231,11 +241,33 @@ namespace BusinessObject.Models
                     .HasConstraintName("FK_Order Details_Products");
             });
 
+            modelBuilder.Entity<PictureGallery>(entity =>
+            {
+                entity.HasKey(e => e.PicId);
+
+                entity.ToTable("PictureGallery");
+
+                entity.Property(e => e.PicId).ValueGeneratedNever();
+
+                entity.Property(e => e.Caption).HasMaxLength(50);
+
+                entity.Property(e => e.Picture)
+                    .HasMaxLength(200)
+                    .IsFixedLength();
+
+                entity.HasOne(d => d.IdNavigation)
+                    .WithMany(p => p.PictureGalleries)
+                    .HasForeignKey(d => d.Id)
+                    .HasConstraintName("FK_PictureGallery_Gallery");
+            });
+
             modelBuilder.Entity<PictureProduct1>(entity =>
             {
                 entity.HasKey(e => e.PictureId);
 
                 entity.ToTable("PictureProducts");
+
+                entity.Property(e => e.PictureId).ValueGeneratedNever();
 
                 entity.Property(e => e.Picture)
                     .HasMaxLength(200)
@@ -253,8 +285,6 @@ namespace BusinessObject.Models
                 entity.Property(e => e.Description).HasMaxLength(1000);
 
                 entity.Property(e => e.ProductName).HasMaxLength(40);
-
-                entity.Property(e => e.QuantityPerUnit).HasMaxLength(20);
 
                 entity.Property(e => e.UnitPrice).HasColumnType("money");
 
