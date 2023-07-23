@@ -22,4 +22,8 @@
     <ProjectReference Include="..\PetStoreAPI\PetStoreAPI.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Home\Products\" />
+  </ItemGroup>
+
 </Project>

@@ -1,5 +1,56 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@using BusinessObject.DTO;
+@model IEnumerable<BusinessObject.DTO.ProductDTO>
 @{
+    ViewData["Title"] = "Index";
 }
+<div class="Search">
+
+</div>
+
+<p>
+    <a asp-action="Create">Create New Product</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(m=>m.ProductName);
+            </th>
+            <th>
+                @Html.DisplayNameFor(m=>m.QuantityPerUnit);
+            </th>
+            <th>
+                @Html.DisplayNameFor(m=>m.UnitPrice);
+            </th>
+            <th>
+                @Html.DisplayNameFor(m=>m.Status);
+            </th>
+            <th>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var i in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(m => i.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => i.QuantityPerUnit)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => i.UnitPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(m => i.Status)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@i.ProductId">Edit</a> |
+                    <a asp-action="Detail" asp-route-id="@i.ProductId">Detail</a> |
+                    <a asp-action="Delete" asp-route-id="@i.ProductId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
